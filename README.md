@@ -1,8 +1,8 @@
 # ThreeBoilerplate
 
-This is the boilerplate that I'm using for my Three.js tutorials.
+This is the boilerplate for Three.js apps.
 
-Wanna use it? okay then just follow these simple steps:
+follow these simple steps:
 
 1. Clone the repository;
 2. Open the folder in Visual Studio Code;
